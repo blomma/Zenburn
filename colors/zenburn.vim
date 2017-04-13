@@ -241,7 +241,7 @@ hi PreCondit       guifg=#dfaf8f                     ctermfg=180
 hi PreProc         guifg=#ffcfaf                     ctermfg=223
 hi Question        guifg=#ffffff                     ctermfg=231
 hi Repeat          guifg=#ffd7a7                     ctermfg=223
-hi Search          guifg=#ffffe0 guibg=#284f28                ctermfg=230 ctermbg=22
+hi Search          guifg=#ffffe0 guibg=#284f28                ctermfg=230 ctermbg=24
 hi SignColumn      guifg=#9fafaf                     ctermfg=109
 hi SpecialChar     guifg=#dca3a3                     ctermfg=181
 hi SpecialComment  guifg=#82a282                     ctermfg=108
