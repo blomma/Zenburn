@@ -42,7 +42,7 @@
 "                         parameters
 "  - Clayton Parker (claytron) - Convinced by Kurt Maier to use Zenburn. Point
 "    out issues with LineNr, fix directory styles, and their usage in MacVim.
-"  - Paweł Piekarski - Spotted bad FoldColumn and TabLine. Made better 
+"  - Paweł Piekarski - Spotted bad FoldColumn and TabLine. Made better
 "                      FoldColumn colors, fixed TabLine colors.
 "  - Jim - Fix for missing Include group for terminal
 "  - Peter (Sakartu) - ColorColumn fixes
@@ -113,7 +113,7 @@
 "
 " * New (dark) Visual coloring has been introduced.
 "   The dark Visual is more aligned with the rest of the colour scheme,
-"   especially if you use line numbers. If you wish to use the 
+"   especially if you use line numbers. If you wish to use the
 "   old Visual coloring, use
 "
 "      let g:zenburn_old_Visual = 1
@@ -137,7 +137,7 @@
 " * To turn the parameter(s) back to defaults, use UNLET or set them to 0:
 "
 "      unlet g:zenburn_alternate_Include
-"   or 
+"   or
 "      let g:zenburn_alternate_Include = 0
 "
 "
@@ -260,7 +260,7 @@ hi Typedef         guifg=#dfe4cf                     ctermfg=253
 hi Type            guifg=#dfdfbf                     ctermfg=187
 hi Underlined      guifg=#dcdccc gui=underline                ctermfg=188 cterm=underline
 hi VertSplit       guifg=#2e3330 guibg=#688060                ctermfg=236 ctermbg=65
-hi VisualNOS       guifg=#333333 guibg=#f18c96,underline ctermfg=236 ctermbg=210
+hi VisualNOS       guifg=#333333 guibg=#f18c96 gui=underline ctermfg=236 ctermbg=210
 hi WarningMsg      guifg=#ffffff guibg=#333333       ctermfg=231 ctermbg=236
 hi WildMenu        guifg=#cbecd0 guibg=#2c302d gui=underline  ctermfg=194 ctermbg=236 cterm=underline
 
